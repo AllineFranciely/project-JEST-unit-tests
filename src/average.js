@@ -25,7 +25,7 @@ const average = (arrayNumbers) => {
     }
     somaNumbers += arrayNumbers[index];
   }
-  return Math.round(somaNumbers / arrayNumbers.length);
+  return Math.round(somaNumbers / arrayNumbers.length); // Math.round arredonda o valor para o inteiro mais próximo. 
 };
 
 module.exports = average;
