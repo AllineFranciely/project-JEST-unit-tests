@@ -29,3 +29,5 @@ const average = (arrayNumbers) => {
 };
 
 module.exports = average;
+
+//  Nesse requisito o site a seguir foi utilizado para compreensão do comando Math.round https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/round
