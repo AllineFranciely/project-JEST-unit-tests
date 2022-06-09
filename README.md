@@ -24,8 +24,6 @@ trabalho na Trybe e mando muito em programação!
 - Será validado se a função `vqv` retorna a frase esperada quando passados parâmetros de nome e idade;
 - Será validado se a função `vqv`, quando chamada sem parâmetros, retorna `undefined`.
 
----
-
 4. Implemente os casos de teste para a função `circle`
 - Será validado se no teste da função `circle`, ao receber um raio, o retorno da função é um objeto com as informações corretas (Raio, Área e Circunferência).
 
